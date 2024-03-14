@@ -25,7 +25,7 @@ public class MovieRepository {
 
     public MovieItem[] findAll() {
         return items;
-    }git
+    }
 
     public MovieItem[] findLast() {
         int resultLength;
